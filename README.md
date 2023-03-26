@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Python project
 - 🌱 I’m currently learning python
 - 💬 Ask me about tech
-- 📫 How to reach me: mail me 
+- 📫 How to reach me: mail me -: pujasahu2723@gmail.com
 - ⚡ Fun fact: i sleep 15 hours a day
 
 <h3 align = "center">
