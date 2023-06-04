@@ -3,8 +3,8 @@
 </h3>
 
 
-- 🔭 I’m currently working on Python project
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on Web Development project
+- 🌱 I’m currently learning C++
 - 💬 Ask me about tech
 - 📫 How to reach me: mail me -: pujasahu2723@gmail.com
 - ⚡ Fun fact: i sleep 15 hours a day
